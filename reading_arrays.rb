@@ -7,17 +7,17 @@ STUDENT_NAMES = [
   "Rihanna"
   ]
 
-def first_student_by_index
-  puts STUDENT_NAMES[1]
-end
+# def first_student_by_index
+#   puts STUDENT_NAMES[1]
+# end
 
-first_student_by_index
+# first_student_by_index
 
-def fourth_student_by_index
-  puts STUDENT_NAMES[3]
-end
+# def fourth_student_by_index
+#   puts STUDENT_NAMES[3]
+# end
 
-fourth_student_by_index
+# fourth_student_by_index
 
 def last_student_by_index
   STUDENT_NAMES[5]
