@@ -23,8 +23,7 @@ def last_student_by_index
   STUDENT_NAMES.last
   # Write a solution that returns the first student in the array student_names
 end
-last
-_student_by_index
+last_student_by_index
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
